@@ -91,7 +91,6 @@ This method is called when the event is triggered and gets place data from API. 
 
 ## Article on Medium
 
-[How to Use Google Place Autocomplete With React Without a Third-Party Library](https://medium.com/better-programming/the-best-practice-with-google-place-autocomplete-api-on-react-939211e8b4ce)
 
 ## How to contribute?
 
